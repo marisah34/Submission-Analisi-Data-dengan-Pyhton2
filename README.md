@@ -13,6 +13,8 @@ cd C:Users\ASUS\Documents\Submission\dashboard
 # Jalankan Streamlit
 streamlit run dashboard.py
 
+<img width="793" alt="image" src="https://github.com/user-attachments/assets/52dfab27-76eb-43ce-9a46-4691bf29ed25" />
+
 Gantilah dashboard.py dengan nama file Python Anda.
 
 Buka browser Setelah perintah dijalankan, Streamlit akan otomatis membuka browser dengan dashboard yang berjalan di http://localhost:8501/.
