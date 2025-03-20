@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
-import os
+
 
 # Load dataset
 day_df = pd.read_csv("all_df.csv")
